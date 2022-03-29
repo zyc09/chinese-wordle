@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/chinese-wordle/static/css/main.6f39a39e.css",
-    "main.js": "/chinese-wordle/static/js/main.f32a76ed.js",
+    "main.css": "/chinese-wordle/static/css/main.13cddea8.css",
+    "main.js": "/chinese-wordle/static/js/main.d5af31f6.js",
     "static/js/787.b3f9d252.chunk.js": "/chinese-wordle/static/js/787.b3f9d252.chunk.js",
     "index.html": "/chinese-wordle/index.html",
-    "main.6f39a39e.css.map": "/chinese-wordle/static/css/main.6f39a39e.css.map",
-    "main.f32a76ed.js.map": "/chinese-wordle/static/js/main.f32a76ed.js.map",
+    "main.13cddea8.css.map": "/chinese-wordle/static/css/main.13cddea8.css.map",
+    "main.d5af31f6.js.map": "/chinese-wordle/static/js/main.d5af31f6.js.map",
     "787.b3f9d252.chunk.js.map": "/chinese-wordle/static/js/787.b3f9d252.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f39a39e.css",
-    "static/js/main.f32a76ed.js"
+    "static/css/main.13cddea8.css",
+    "static/js/main.d5af31f6.js"
   ]
 }
